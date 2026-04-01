@@ -50,14 +50,11 @@ class Suyash:
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![heartrisk-pro](https://github-readme-stats.vercel.app/api/pin/?username=littlestuart07&repo=heartrisk-pro&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=79c0ff)](https://github.com/littlestuart07/heartrisk-pro)
-[![heartriskcheck](https://github-readme-stats.vercel.app/api/pin/?username=littlestuart07&repo=heartriskcheck&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=79c0ff)](https://github.com/littlestuart07/heartriskcheck)
-
-[![fods_project](https://github-readme-stats.vercel.app/api/pin/?username=littlestuart07&repo=fods_project&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=79c0ff)](https://github.com/littlestuart07/fods_project)
-
-</div>
+| Project | Description | Language |
+|--------|-------------|----------|
+| 🫀 [**heartrisk-pro**](https://github.com/littlestuart07/heartrisk-pro) | Professional-grade heart failure risk assessment app | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 📊 [**heartriskcheck**](https://github.com/littlestuart07/heartriskcheck) | Heart risk analysis & ML model exploration | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 📁 [**fods_project**](https://github.com/littlestuart07/fods_project) | Fundamentals of Data Science — pipelines & visualization | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 ---
 
@@ -65,8 +62,7 @@ class Suyash:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide_border=false" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littlestuart07&theme=github_dark" />
 
 </div>
 
@@ -112,3 +108,4 @@ class Suyash:
 *Made with ❤️ by Suyash Agrawaal · littlestuart07*
 
 </div>
+
