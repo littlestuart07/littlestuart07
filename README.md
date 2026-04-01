@@ -74,15 +74,13 @@ class Suyash:
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-![snake gif](https://github.com/littlestuart07/littlestuart07/blob/output/github-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=github-compact&hide_border=true&color=58a6ff&line=58a6ff&point=79c0ff)](https://github.com/littlestuart07)
 
 </div>
-
-> 💡 *To enable the snake animation, set up [this GitHub Action](https://github.com/Platane/snk) in your profile repo.*
 
 ---
 
@@ -108,4 +106,3 @@ class Suyash:
 *Made with ❤️ by Suyash Agrawaal · littlestuart07*
 
 </div>
-
