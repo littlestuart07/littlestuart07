@@ -1,81 +1,37 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Suyash%20Agrawaal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Data%20Science%20%26%20Machine%20Learning&descAlignY=60&descSize=18" width="100%"/>
+
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs" height="55"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Building+with+Data+%7C+ML+%7C+Web+Technologies;Exploring+AI+%7C+Data+Science+%7C+Intelligent+Systems;Turning+Ideas+into+Practical+Projects;Always+Learning+Something+New" alt="Typing SVG"/>
 
 <br><br>
 
-# 👋 **SUYASH AGRAWAAL**
-
-### `Computer Science Student` • `Data Science` • `Machine Learning` • `AI`
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="180">
-
-### 📊
-**DATA SCIENCE**
-
-</td>
-
-<td align="center" width="180">
-
-### 🤖
-**MACHINE LEARNING**
-
-</td>
-
-<td align="center" width="180">
-
-### 🧠
-**ARTIFICIAL INTELLIGENCE**
-
-</td>
-
-<td align="center" width="180">
-
-### 🌐
-**SOFTWARE**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/💻%20BUILDING-DATA%20%26%20ML-667EEA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖%20EXPLORING-AI-764BA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊%20ANALYZING-DATA-5B8DEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀%20CREATING-PROJECTS-805AD5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20DATA%20%26%20ML-667EEA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20ARTIFICIAL%20INTELLIGENCE-764BA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20WEB%20TECHNOLOGIES-5B8DEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20PROJECT%20BUILDER-805AD5?style=for-the-badge"/>
 
 <br><br>
-
-> **Turning data into insights • Ideas into projects • Learning into progress**
-
-<br>
 
 <a href="https://github.com/littlestuart07">
-<img src="https://img.shields.io/badge/GITHUB-LITTLESTUART07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-littlestuart07-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=littlestuart07&style=for-the-badge&color=667eea&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,flask,mysql,mongodb" height="42"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs" height="45"/>
 
 <br><br>
 
 ### `BUILD` → `LEARN` → `EXPERIMENT` → `IMPROVE` → `REPEAT`
-
-<br>
 
 </div>
 
@@ -128,7 +84,7 @@ I'm currently focused on strengthening my skills in **Machine Learning, Data Sci
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,sql" />
 
 <br><br>
 
@@ -325,8 +281,6 @@ Street-food supply chain platform built with modern web technologies.
 
 Collaborative automotive-focused web project.
 
-<br>
-
 <a href="https://aurahonda.com/">
 <img src="https://img.shields.io/badge/Visit%20Aura%20Honda-1F1F1F?style=for-the-badge&logo=honda&logoColor=white"/>
 </a>
@@ -391,7 +345,11 @@ Collaborative automotive-focused web project.
 
 <div align="center">
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg">
 <img src="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake"/>
+</picture>
 
 </div>
 
