@@ -1,58 +1,80 @@
+<!-- ======================= HERO ======================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Suyash Agrawaal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=230&section=header&text=SUYASH%20AGRAWAAL&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58&descSize=20" width="100%"/>
 
-### Data Science & ML Engineer in Training
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Building+Data-Driven+Applications;Exploring+AI+%26+MLOps;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+VIT+Chennai;Data+Science+%26+Machine+Learning+Enthusiast;Building+AI+%26+Data-Driven+Applications;Exploring+RAG%2C+MLOps+%26+Intelligent+Systems;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/littlestuart07">
-    <img src="https://img.shields.io/badge/GitHub-littlestuart07-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br><br>
+
+<a href="https://github.com/littlestuart07">
+<img src="https://img.shields.io/badge/GitHub-littlestuart07-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=littlestuart07&style=for-the-badge&label=PROFILE+VIEWS&color=00C6FF"/>
 
 </div>
 
+<br>
+
 ---
 
-## 🧑‍💻 About Me
+<!-- ======================= INTRO ======================= -->
+
+<div align="center">
+
+# 👨‍💻 Who Am I?
+
+### `Data Science` × `Machine Learning` × `AI` × `Software`
+
+</div>
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
-🎓 **B.Tech Computer Science** @ VIT Chennai
+### 👋 About Me
 
-📊 Focused on **Data Science & Machine Learning**
+I'm a **Computer Science student at VIT Chennai** with a strong interest in **Data Science, Machine Learning and AI**.
 
-🤖 Building projects around **AI, ML & analytics**
+I enjoy taking a problem from:
 
-⚡ Interested in turning real-world problems into practical software
+**Data → Analysis → Model → Application → Insights**
 
-🚀 Currently working on **HeartRisk Pro**
+My projects span healthcare analytics, urban mobility, retail analytics, clustering, RAG systems and full-stack applications.
 
-🌱 Exploring **Model Deployment, MLOps & Clinical AI Ethics**
+<br>
+
+🎓 **B.Tech — Computer Science**  
+🏫 **VIT Chennai**  
+📊 **Data Science & ML**  
+🤖 **AI & Intelligent Systems**  
+🌐 **Full-Stack Development**
 
 </td>
 
-<td width="45%">
+<td width="40%" valign="top">
 
 ```text
-┌─────────────────────────────┐
-│       CURRENT FOCUS         │
-├─────────────────────────────┤
-│                             │
-│  📊 Data Science            │
-│  🤖 Machine Learning        │
-│  🧠 AI Applications         │
-│  ⚙️  Model Deployment       │
-│  📈 Data Analytics          │
-│                             │
-└─────────────────────────────┘
+╭────────────────────────────╮
+│       CURRENTLY BUILDING   │
+├────────────────────────────┤
+│                            │
+│  📊 Data Science           │
+│  🤖 Machine Learning       │
+│  🧠 AI Applications        │
+│  🔎 RAG Systems            │
+│  ⚙️  Model Deployment      │
+│  📈 Data Analytics         │
+│                            │
+╰────────────────────────────╯
 ```
 
 </td>
@@ -61,180 +83,189 @@
 
 ---
 
-# 🛠️ Tech Stack
+<!-- ======================= QUICK STATS ======================= -->
 
 <div align="center">
 
-### Languages
+## ⚡ Quick Overview
 
-<img src="https://skillicons.dev/icons?i=python,typescript,cpp,java,r" />
-
-### Data Science & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-### Web & Backend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,flask,tailwind" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode,linux" />
+| 🎓 Education | 💻 Primary Focus | 🧠 Interests | 🚀 Open To |
+|:---:|:---:|:---:|:---:|
+| VIT Chennai | Data Science & ML | AI / RAG / Analytics | Internships |
+| B.Tech CSE | Python / TypeScript | MLOps | Research |
+| Computer Science | Data-driven Apps | Intelligent Systems | Open Source |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+<!-- ======================= TECH STACK ======================= -->
+
+<div align="center">
+
+# 🧰 Tech Arsenal
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,cpp,java,r" />
+
+### 🤖 Data Science & Machine Learning
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white"/>
+
+### 🌐 Web & Backend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,flask,tailwind" />
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux" />
+
+### 📊 Analytics & Visualization
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 Project Universe
+
+<div align="center">
+
+### A collection of things I've built, explored and contributed to.
+
+</div>
+
+<br>
+
+<!-- PROJECT 1 -->
 
 <table>
 <tr>
-
-<td width="50%">
-
-## ❤️ HeartRisk Pro
-
-**AI-powered heart-risk assessment platform**
-
-🔹 Machine Learning  
-🔹 Clinical parameters  
-🔹 Risk assessment  
-🔹 Web application  
-
-**Stack**
-
-`Python` `XGBoost` `FastAPI` `Next.js`
-
-<a href="https://github.com/littlestuart07">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🫀 HeartRiskCheck
 
-**Heart Disease Prediction Application**
+### Heart Disease Prediction
 
-🔹 ML prediction model  
-🔹 Flask backend  
-🔹 12 input features  
-🔹 Trained model + scaler  
+A machine-learning based heart disease prediction application.
 
-**Stack**
+**Highlights**
+
+- 🧠 Machine Learning prediction
+- 🌐 Flask web application
+- 📊 Clinical input features
+- 📦 Trained model + scaler
+- 📈 Data-driven prediction
+
+**Tech**
 
 `Python` `Flask` `Scikit-Learn` `XGBoost`
 
+<br>
+
 <a href="https://github.com/littlestuart07/heartriskcheck">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-</tr>
+<td width="50%" valign="top">
 
-<tr>
+## 🏙️ Smart City Mobility
 
-<td width="50%">
+### Mobility Intelligence Platform
 
-## 🏙️ Smart City Mobility Intelligence
+An urban mobility analytics project covering **Delhi & Bengaluru**.
 
-**Urban mobility analytics platform**
+**Dashboards**
 
-📍 Delhi & Bengaluru
+- 🚇 Metro Analytics
+- 🚌 Transit Analytics
+- 🚦 Traffic Analytics
+- 🚕 Ride-Hailing Analytics
+- 🌆 Smart Mobility
+- 📊 Executive Intelligence
 
-🔹 Transit Analytics  
-🔹 Traffic Analytics  
-🔹 Metro Analytics  
-🔹 Ride-Hailing Analytics  
-🔹 Smart Mobility Intelligence  
-🔹 Interactive Power BI dashboards  
-
-**Stack**
+**Tech**
 
 `Power BI` `DAX` `Power Query` `Data Analytics`
 
+<br>
+
 <a href="https://github.com/littlestuart07/Smart-City-Mobility-Intelligence-Platform">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+</tr>
+</table>
 
-<td width="50%">
+---
+
+<!-- PROJECT 2 -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🛒 Online Retail Analytics
 
-**Retail data analysis project**
+### Retail Data Analysis
 
-🔹 Data exploration  
-🔹 Retail analytics  
-🔹 Assignment-based analysis  
-🔹 Data-driven insights  
+A data analytics project focused on exploring and analyzing online retail data.
 
 **Focus**
 
-`Data Analytics` `EDA` `Business Insights`
+- 📊 Data analysis
+- 🔎 Exploratory analysis
+- 📈 Retail insights
+- 🧮 Data-driven interpretation
+
+**Tech**
+
+`Data Analytics` `EDA`
+
+<br>
 
 <a href="https://github.com/littlestuart07/Online-Retail-Analytics-Project">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📊 FODS Project
 
-**Healthcare Data Analytics & Clustering**
+### Healthcare Data Analytics
 
-🔹 Healthcare datasets  
-🔹 Exploratory Data Analysis  
-🔹 K-Means Clustering  
-🔹 Agglomerative Clustering  
-🔹 Diabetes, heart & smoking datasets  
+A healthcare-focused data science project involving exploratory analysis and clustering.
 
-**Stack**
+**Highlights**
+
+- 🩺 Healthcare datasets
+- 📊 Exploratory Data Analysis
+- 🔵 K-Means clustering
+- 🟣 Agglomerative clustering
+- 🧬 Diabetes, heart & smoking datasets
+
+**Tech**
 
 `Python` `Pandas` `Scikit-Learn` `Jupyter`
 
+<br>
+
 <a href="https://github.com/littlestuart07/fods_project">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-
-<td width="50%">
-
-## 🧠 IP-SAKTI Sahayak
-
-**Ayurveda IP & Regulatory RAG Assistant**
-
-🔹 Retrieval-Augmented Generation  
-🔹 Source-cited responses  
-🔹 Multilingual support  
-🔹 Intellectual Property guidance  
-🔹 Regulatory information  
-
-**Focus**
-
-`RAG` `AI` `NLP` `Knowledge Retrieval`
-
-<a href="https://github.com/tamalkumr-cmd/ip-sakti-sahayak">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
 </tr>
 </table>
 
@@ -242,52 +273,69 @@
 
 # 🤝 Collaborative Projects
 
+<div align="center">
+
+### Building isn't always a solo journey.
+
+</div>
+
+<br>
+
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+## 🧠 IP-SAKTI Sahayak
+
+### Ayurveda IP & Regulatory RAG Assistant
+
+A multilingual RAG-based assistant designed around intellectual property and regulatory guidance in Ayurveda.
+
+**Key Areas**
+
+- 🔎 Retrieval-Augmented Generation
+- 📚 Knowledge retrieval
+- 🌐 Multilingual support
+- 📑 Source-cited responses
+- ⚖️ IP & regulatory information
+
+**Focus**
+
+`RAG` `AI` `NLP` `Knowledge Retrieval`
+
+<br>
+
+<a href="https://github.com/tamalkumr-cmd/ip-sakti-sahayak">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 📦 Inventory Manager
 
 ### Voice-Enabled DBMS Project
 
-🔹 Inventory management  
-🔹 Voice-enabled features  
-🔹 Employee management  
-🔹 MySQL database  
-🔹 React frontend  
+A full-stack inventory management application with voice-enabled functionality.
 
-**Stack**
+**Key Areas**
+
+- 📦 Inventory management
+- 👥 Employee management
+- 🎙️ Voice functionality
+- 🗄️ MySQL database
+- ⚛️ React frontend
+
+**Tech**
 
 `Python` `Flask` `MySQL` `React` `TypeScript`
 
+<br>
+
 <a href="https://github.com/aryamansingh04/DBMS-final">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🍔 VISTA
-
-### Street Food Supply Chain Platform
-
-🔹 B2B vendor/supplier platform  
-🔹 API integration  
-🔹 Third-party service configuration  
-🔹 Security management  
-
-**My Contribution**
-
-`API Integration` `Configuration` `Security`
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Node.js` `Firebase`
-
-<a href="https://github.com/Git-Vaibhav323/VISTA-APP">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -296,37 +344,56 @@
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🚗 Honda / Aura Honda
+## 🍔 VISTA
 
-Automotive-focused project developed as part of a collaborative project.
+### Street Food Supply Chain Platform
 
-🔹 Web application  
-🔹 Automotive domain  
-🔹 Collaborative development  
+A B2B platform connecting street food vendors and suppliers.
 
-<a href="https://github.com/Git-Vaibhav323/Honda-final">
-<img src="https://img.shields.io/badge/PROJECT_REPOSITORY-181717?style=for-the-badge&logo=github" />
-</a>
+**My Contribution**
 
-<a href="https://aurahonda.com/">
-<img src="https://img.shields.io/badge/AURA_HONDA-Visit_Website-0F172A?style=for-the-badge" />
+- 🔌 API integration
+- ⚙️ Third-party service configuration
+- 🔐 Security management
+
+**Tech**
+
+`Next.js` `React` `TypeScript`  
+`Node.js` `Express` `Firebase`
+
+<br>
+
+<a href="https://github.com/Git-Vaibhav323/VISTA-APP">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🌐 More Projects
+## 🚗 Honda / Aura Honda
 
-Always experimenting with:
+### Automotive Web Project
 
-📊 Data Analytics  
-🤖 Machine Learning  
-🧠 AI Applications  
-🌍 Real-world problem solving  
-⚙️ Full-stack development  
+A collaborative project focused on an automotive web experience.
+
+**Areas**
+
+- 🚗 Automotive domain
+- 🌐 Web development
+- 🤝 Collaborative development
+
+<br>
+
+<a href="https://github.com/Git-Vaibhav323/Honda-final">
+<img src="https://img.shields.io/badge/PROJECT_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://aurahonda.com/">
+<img src="https://img.shields.io/badge/AURA_HONDA-WEBSITE-0F172A?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -335,13 +402,72 @@ Always experimenting with:
 
 ---
 
-# 📊 GitHub Analytics
+# 🧠 My Development Workflow
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+```text
+        ┌─────────────────────┐
+        │   💡 PROBLEM        │
+        └──────────┬──────────┘
+                   ↓
+        ┌─────────────────────┐
+        │   📥 COLLECT DATA   │
+        └──────────┬──────────┘
+                   ↓
+        ┌─────────────────────┐
+        │   🧹 CLEAN & EDA    │
+        └──────────┬──────────┘
+                   ↓
+        ┌─────────────────────┐
+        │   🤖 MODEL / RAG    │
+        └──────────┬──────────┘
+                   ↓
+        ┌─────────────────────┐
+        │   🌐 BUILD APP      │
+        └──────────┬──────────┘
+                   ↓
+        ┌─────────────────────┐
+        │   📊 INSIGHTS       │
+        └──────────┬──────────┘
+                   ↓
+        ┌─────────────────────┐
+        │   🚀 DEPLOY / SHARE │
+        └─────────────────────┘
+```
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+# 🎯 What I'm Exploring
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🤖<br><b>Machine Learning</b><br><sub>Models & Prediction</sub></td>
+<td align="center">🧠<br><b>Artificial Intelligence</b><br><sub>Intelligent Applications</sub></td>
+<td align="center">🔎<br><b>RAG Systems</b><br><sub>Knowledge Retrieval</sub></td>
+</tr>
+<tr>
+<td align="center">📊<br><b>Data Science</b><br><sub>EDA & Analytics</sub></td>
+<td align="center">⚙️<br><b>MLOps</b><br><sub>Deployment & Pipelines</sub></td>
+<td align="center">🌐<br><b>Full Stack</b><br><sub>Apps & APIs</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
 
@@ -349,147 +475,85 @@ Always experimenting with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=littlestuart07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=littlestuart07&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🧩 What I Work On
+# 🏗️ My Learning Journey
+
+<div align="center">
 
 ```text
-                    ┌──────────────────┐
-                    │   REAL-WORLD     │
-                    │    PROBLEM       │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   DATA / INPUT   │
-                    └────────┬─────────┘
-                             │
-                             ▼
-              ┌──────────────────────────────┐
-              │      ANALYSIS + ML / AI     │
-              └──────────────┬───────────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   APPLICATION    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │     INSIGHTS     │
-                    │   / DECISIONS    │
-                    └──────────────────┘
-```
-
----
-
-# 🎯 Currently Focused On
-
-| Area | Focus |
-|---|---|
-| 🤖 Machine Learning | Model development & evaluation |
-| 📊 Data Science | EDA, analytics & visualization |
-| ⚙️ Deployment | APIs & production workflows |
-| 🔄 MLOps | Learning deployment pipelines |
-| 🧠 AI | RAG & intelligent applications |
-| 🏥 Clinical AI | Responsible & ethical AI applications |
-
----
-
-# 🏆 Project Journey
-
-```text
-📊 Data Analytics
-       │
-       ▼
-🧮 Statistics & EDA
-       │
-       ▼
+📚 Computer Science
+        │
+        ▼
+📊 Data Analysis
+        │
+        ▼
+🧮 Statistics
+        │
+        ▼
 🤖 Machine Learning
-       │
-       ▼
-🧠 AI Applications
-       │
-       ▼
-🌐 Full-Stack Integration
-       │
-       ▼
+        │
+        ▼
+🧠 Artificial Intelligence
+        │
+        ▼
+🌐 Full-Stack Applications
+        │
+        ▼
 ⚙️ Deployment & MLOps
 ```
 
+</div>
+
 ---
 
-# 💡 Areas of Interest
+# 🌱 Currently Learning
 
 <div align="center">
 
-`Data Science` • `Machine Learning` • `Artificial Intelligence`
-
-`Data Analytics` • `RAG Systems` • `Predictive Analytics`
-
-`Full-Stack Development` • `MLOps` • `Responsible AI`
+`Model Deployment` &nbsp;•&nbsp;
+`MLOps` &nbsp;•&nbsp;
+`RAG` &nbsp;•&nbsp;
+`AI Engineering` &nbsp;•&nbsp;
+`Responsible AI`
 
 </div>
 
 ---
 
-# 📚 Education
+# 🤝 Let's Connect
 
 <div align="center">
 
-### 🎓 Vellore Institute of Technology — Chennai
-
-**B.Tech — Computer Science**
-
-`Computer Science` `Data Science` `Machine Learning`
-
-</div>
-
----
-
-# 🤝 Open To
-
-<div align="center">
-
-🚀 **Internships**
-
-🔬 **Research Collaborations**
-
-💻 **Open Source**
-
-🤝 **Interesting Projects**
-
-🧠 **AI / ML Opportunities**
-
-</div>
-
----
-
-# 🌟 Let's Build Something Meaningful
-
-<div align="center">
-
-### "Build. Learn. Experiment. Repeat."
+### Interested in technology, AI, data and building useful things?
 
 <br>
 
-<a href="https://github.com/littlestuart07?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/littlestuart07">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br><br>
+
+**🚀 Build • Learn • Experiment • Improve**
 
 </div>
 
@@ -497,10 +561,6 @@ Always experimenting with:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=littlestuart07&style=for-the-badge&color=blueviolet" />
-
-<br><br>
-
-### ⭐ If you find something interesting, feel free to explore the repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:243B55,100:141E30&height=120&section=footer"/>
 
 </div>
