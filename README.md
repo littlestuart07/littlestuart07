@@ -1,28 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Suyash%20Agrawaal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Machine%20Learning%20%26%20Full-Stack&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Suyash%20Agrawaal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Machine%20Learning%20%26%20Full-Stack&descAlignY=60&descSize=18" width="100%" alt="Suyash Agrawaal"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Building+with+Data+%7C+ML+%7C+Web+Technologies;Exploring+AI+%7C+Data+Science+%7C+Intelligent+Systems;Turning+Ideas+into+Practical+Projects;Always+Learning+Something+New" alt="Typing SVG"/>
-
-<img src="https://img.shields.io/badge/%F0%9F%92%BB%20DATA%20%26%20ML-667EEA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%F0%9F%A4%96%20ARTIFICIAL%20INTELLIGENCE-764BA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20WEB%20TECHNOLOGIES-5B8DEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECT%20BUILDER-805AD5?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Building+with+Data+%7C+ML+%7C+Web+Technologies;Exploring+AI+%7C+Data+Science+%7C+Intelligent+Systems;Turning+Ideas+into+Practical+Projects;Always+Learning+Something+New" alt="Building with Data, ML and Web Technologies"/>
 
 <br/>
 
-<a href="https://aurahonda.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20SITE-aurahonda.com-667EEA?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/littlestuart07"><img src="https://img.shields.io/badge/GitHub-littlestuart07-181717?style=for-the-badge&logo=github"/></a>
+<img src="https://img.shields.io/badge/DATA%20%26%20ML-667EEA?style=for-the-badge" alt="Data and ML"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-764BA2?style=for-the-badge" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/WEB%20TECHNOLOGIES-5B8DEF?style=for-the-badge" alt="Web Technologies"/>
+<img src="https://img.shields.io/badge/PROJECT%20BUILDER-805AD5?style=for-the-badge" alt="Project Builder"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=littlestuart07&style=for-the-badge&color=667eea&label=PROFILE+VIEWS"/>
+<a href="https://aurahonda.com/"><img src="https://img.shields.io/badge/LIVE%20SITE-aurahonda.com-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Site"/></a>
+<a href="https://www.linkedin.com/in/suyash-agrawaal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:suyashagrawaal@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/littlestuart07"><img src="https://img.shields.io/badge/GitHub-littlestuart07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=littlestuart07&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,mysql" alt="Core skills"/>
 
 ### `BUILD` → `LEARN` → `EXPERIMENT` → `IMPROVE` → `REPEAT`
 
@@ -35,6 +37,8 @@
 Hi! I'm **Suyash Agrawaal**, a **B.Tech Data Science** student at **VIT Chennai** working across **machine learning, data analytics, and full-stack development**.
 
 I like projects that connect data to something people actually use — predictive models on healthcare data, analytics platforms for urban mobility, RAG-based assistants, and production web applications. My focus right now is deepening my **ML fundamentals** while shipping real, deployed systems.
+
+📫 Reach me at **[suyashagrawaal@gmail.com](mailto:suyashagrawaal@gmail.com)** · 🌐 See live work at **[aurahonda.com](https://aurahonda.com/)**
 
 ---
 
@@ -56,21 +60,21 @@ I like projects that connect data to something people actually use — predictiv
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,mysql" alt="Languages"/>
 
 ### 🤖 Data & Machine Learning
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 ### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask,firebase" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask,firebase" alt="Web and Backend"/>
 
 ### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,aws" alt="Databases and Tools"/>
 
 </div>
 
@@ -243,19 +247,19 @@ Inventory management system combining a relational backend with a modern fronten
 <div align="center">
 
 <a href="https://github.com/littlestuart07">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/littlestuart07">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=littlestuart07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=littlestuart07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity"/>
 
 </div>
 
@@ -265,12 +269,12 @@ Inventory management system combining a relational backend with a modern fronten
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-667eea?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-5B8DEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Deployment-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-4A5568?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-805AD5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-667eea?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Data%20Science-764ba2?style=for-the-badge" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-5B8DEF?style=for-the-badge" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Model%20Deployment-6C63FF?style=for-the-badge" alt="Model Deployment"/>
+<img src="https://img.shields.io/badge/MLOps-4A5568?style=for-the-badge" alt="MLOps"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-805AD5?style=for-the-badge" alt="RAG Systems"/>
 
 </div>
 
@@ -286,17 +290,18 @@ Inventory management system combining a relational backend with a modern fronten
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Internships-667EEA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Research-764BA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-5B8DEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Projects-805AD5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Internships-667EEA?style=for-the-badge" alt="Internships"/>
+<img src="https://img.shields.io/badge/Research-764BA2?style=for-the-badge" alt="Research"/>
+<img src="https://img.shields.io/badge/Open%20Source-5B8DEF?style=for-the-badge" alt="Open Source"/>
+<img src="https://img.shields.io/badge/AI%20Projects-805AD5?style=for-the-badge" alt="AI Projects"/>
 
 **Internships • Research • Open Source • AI & Software Projects**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/suyash-agrawaal/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:suyashagrawaal@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://aurahonda.com/"><img src="https://img.shields.io/badge/See%20My%20Work-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Site"/></a>
 
 <br/><br/>
 
@@ -304,6 +309,6 @@ Inventory management system combining a relational backend with a modern fronten
 
 ### 💻 Build • 📊 Analyze • 🤖 Learn • 🚀 Create
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
