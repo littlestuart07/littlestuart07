@@ -1,118 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A5F,100:00B8D9&text=SUYASH%20AGRAWAAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Suyash%20Agrawaal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Data%20Science%20%26%20ML&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00B8D9&center=true&vCenter=true&width=760&lines=Computer+Science+Student+%40+VIT+Chennai;Data+Science+%26+Machine+Learning+Enthusiast;Building+Data-Driven+Applications;Exploring+AI%2C+RAG+%26+MLOps;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Building+with+Data+%7C+ML+%7C+Web+Technologies;Exploring+AI%2C+Data+Science+%26+Intelligent+Systems;Turning+Ideas+into+Practical+Projects;Always+Learning+Something+New"/>
 
 <br><br>
 
 <a href="https://github.com/littlestuart07">
-<img src="https://img.shields.io/badge/GitHub-littlestuart07-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-littlestuart07-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=littlestuart07&style=flat-square&color=00B8D9&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=littlestuart07&style=for-the-badge&color=667eea&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 About Me
 
-## 👨‍💻 About Me
+Hi! I'm **Suyash Agrawaal**, a Computer Science student at **VIT Chennai** interested in **Data Science, Machine Learning, AI and software development**.
 
-### `Data` × `AI` × `Machine Learning` × `Software`
+I enjoy working on projects that combine data, intelligent systems and practical applications — from predictive models and healthcare datasets to analytics platforms, DBMS applications and AI-powered systems.
 
-</div>
+I'm currently focused on strengthening my skills in **Machine Learning, Data Science, backend development and intelligent applications**.
+
+---
+
+## ⚡ Quick Facts
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td>🎓 <b>Education</b></td>
+<td>B.Tech Computer Science — VIT Chennai</td>
+</tr>
 
-I'm a **Computer Science student at VIT Chennai** interested in building practical solutions using **Data Science, Machine Learning, Artificial Intelligence and software development**.
+<tr>
+<td>🧠 <b>Interests</b></td>
+<td>Data Science • Machine Learning • AI • Software Development</td>
+</tr>
 
-I enjoy working across the complete journey:
+<tr>
+<td>💻 <b>Languages</b></td>
+<td>Python • C++ • TypeScript • SQL</td>
+</tr>
 
-**Collect → Clean → Analyze → Model → Build → Deploy**
+<tr>
+<td>🌱 <b>Currently Exploring</b></td>
+<td>ML • Model Deployment • MLOps • AI Applications</td>
+</tr>
 
-My projects explore:
-
-- 📊 Data Analytics & Visualization
-- 🤖 Machine Learning
-- 🧠 AI & RAG Systems
-- 🏙️ Urban Mobility Analytics
-- 🩺 Healthcare Data
-- 🌐 Full-Stack Applications
-
-</td>
-
-<td width="38%" valign="top">
-
-### ⚡ Quick Facts
-
-🎓 **VIT Chennai**
-
-💻 **Computer Science**
-
-📊 **Data Science**
-
-🤖 **Machine Learning**
-
-🧠 **Artificial Intelligence**
-
-🌐 **Full-Stack Development**
-
-🚀 **Always Building**
-
-</td>
+<tr>
+<td>🚀 <b>Goal</b></td>
+<td>Build useful, data-driven software systems</td>
 </tr>
 </table>
 
 ---
 
-# 🧰 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,cpp,java,r" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,sql" />
 
 <br><br>
 
-### 🤖 Data Science & Machine Learning
+### 🤖 Data & Machine Learning
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
 
 <br><br>
 
 ### 🌐 Web & Backend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,flask,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask" />
 
 <br><br>
 
 ### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux" />
-
-<br><br>
-
-### 📊 Analytics
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 
 </div>
 
@@ -125,28 +107,22 @@ My projects explore:
 
 <td width="50%" valign="top">
 
-## 🫀 HeartRiskCheck
+## ❤️ Heart Disease Predictor
 
-### Heart Disease Prediction
+**HeartRiskCheck**
 
-Machine-learning based heart disease prediction application.
+Machine-learning based heart disease prediction application with a Flask backend and trained ML model.
 
 **Highlights**
 
-- 🧠 ML prediction model
-- 🌐 Flask web application
-- 📊 Clinical input features
-- 📦 Trained model & scaler
-- 📈 Data-driven prediction
-
-**Tech**
-
-`Python` `Flask` `Scikit-Learn` `XGBoost`
-
-<br>
+- Clinical feature-based prediction
+- Flask backend
+- Scikit-learn / XGBoost
+- NumPy & Pandas
+- Trained model and scaler
 
 <a href="https://github.com/littlestuart07/heartriskcheck">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -155,27 +131,17 @@ Machine-learning based heart disease prediction application.
 
 ## 🏙️ Smart City Mobility
 
-### Mobility Intelligence Platform
+Data analytics platform focused on urban mobility and transportation insights.
 
-Urban mobility analytics covering **Delhi & Bengaluru**.
+**Highlights**
 
-**Dashboards**
-
-- 🚇 Metro Analytics
-- 🚌 Transit Analytics
-- 🚦 Traffic Analytics
-- 🚕 Ride-Hailing Analytics
-- 🌆 Smart Mobility
-- 📊 Executive Intelligence
-
-**Tech**
-
-`Power BI` `DAX` `Power Query`
-
-<br>
+- Bengaluru & Delhi mobility data
+- Interactive analytics
+- Power BI dashboards
+- Urban mobility insights
 
 <a href="https://github.com/littlestuart07/Smart-City-Mobility-Intelligence-Platform">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -188,53 +154,40 @@ Urban mobility analytics covering **Delhi & Bengaluru**.
 
 ## 🛒 Online Retail Analytics
 
-### Retail Data Analysis
+Analytics project focused on extracting insights from online retail data.
 
-A data analytics project focused on exploring online retail data.
+**Highlights**
 
-**Focus**
-
-📊 Data Analysis  
-🔎 Exploratory Analysis  
-📈 Retail Insights  
-🧮 Data Interpretation
-
-**Area**
-
-`Data Analytics` `EDA`
-
-<br>
+- Retail data analysis
+- Exploratory analysis
+- Data-driven insights
+- Analytics coursework
 
 <a href="https://github.com/littlestuart07/Online-Retail-Analytics-Project">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📊 FODS Project
+## 🏥 Healthcare Data Analysis
 
-### Healthcare Data Analytics
+**FODS Project**
 
-Healthcare-focused data science project involving exploratory analysis and clustering.
+Healthcare-focused data integration and analysis project.
 
 **Highlights**
 
-- 🩺 Healthcare datasets
-- 📊 Exploratory Data Analysis
-- 🔵 K-Means clustering
-- 🟣 Agglomerative clustering
-- 🧬 Diabetes, heart & smoking datasets
-
-**Tech**
-
-`Python` `Pandas` `Scikit-Learn` `Jupyter`
-
-<br>
+- Healthcare datasets
+- Exploratory Data Analysis
+- Clustering
+- K-Means
+- Agglomerative Clustering
+- Diabetes, heart & smoking datasets
 
 <a href="https://github.com/littlestuart07/fods_project">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -253,26 +206,14 @@ Healthcare-focused data science project involving exploratory analysis and clust
 
 ## 🧠 IP-SAKTI Sahayak
 
-### Ayurveda IP & Regulatory RAG Assistant
+Multilingual RAG-based assistant designed for Intellectual Property and regulatory guidance in the Ayurveda domain.
 
-A multilingual RAG-based assistant for intellectual property and regulatory guidance in Ayurveda.
+**Technologies**
 
-**Key Areas**
-
-🔎 Retrieval-Augmented Generation  
-📚 Knowledge Retrieval  
-🌐 Multilingual Support  
-📑 Source-Cited Responses  
-⚖️ IP & Regulatory Information
-
-**Focus**
-
-`RAG` `AI` `NLP`
-
-<br>
+`RAG` `AI` `NLP` `Python` `Web Application`
 
 <a href="https://github.com/tamalkumr-cmd/ip-sakti-sahayak">
-<img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -281,26 +222,14 @@ A multilingual RAG-based assistant for intellectual property and regulatory guid
 
 ## 📦 Inventory Manager
 
-### Voice-Enabled DBMS Project
+Voice-enabled DBMS application combining a Flask/MySQL backend with a React/TypeScript frontend.
 
-Full-stack inventory management application.
-
-**Key Areas**
-
-📦 Inventory Management  
-👥 Employee Management  
-🎙️ Voice Features  
-🗄️ MySQL Database  
-⚛️ React Frontend
-
-**Tech**
+**Technologies**
 
 `Python` `Flask` `MySQL` `React` `TypeScript`
 
-<br>
-
 <a href="https://github.com/aryamansingh04/DBMS-final">
-<img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -311,27 +240,16 @@ Full-stack inventory management application.
 
 <td width="50%" valign="top">
 
-## 🍔 VISTA
+## 🍜 VISTA
 
-### Street Food Supply Chain Platform
+Street-food supply chain platform built with modern web technologies.
 
-B2B platform connecting street food vendors and suppliers.
+**Technologies**
 
-### My Contribution
-
-🔌 API Integration  
-⚙️ Third-Party Service Configuration  
-🔐 Security Management
-
-**Tech**
-
-`Next.js` `React` `TypeScript`  
-`Node.js` `Express` `Firebase`
-
-<br>
+`Next.js` `React` `TypeScript` `Node.js` `Express` `Firebase`
 
 <a href="https://github.com/Git-Vaibhav323/VISTA-APP">
-<img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -340,24 +258,10 @@ B2B platform connecting street food vendors and suppliers.
 
 ## 🚗 Honda / Aura Honda
 
-### Automotive Web Project
-
-Collaborative project focused on an automotive web experience.
-
-**Areas**
-
-🚗 Automotive  
-🌐 Web Development  
-🤝 Collaboration
-
-<br>
-
-<a href="https://github.com/Git-Vaibhav323/Honda-final">
-<img src="https://img.shields.io/badge/PROJECT_REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
+Collaborative automotive-focused web project.
 
 <a href="https://aurahonda.com/">
-<img src="https://img.shields.io/badge/AURA_HONDA-WEBSITE-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visit%20Aura%20Honda-1F1F1F?style=for-the-badge&logo=honda&logoColor=white"/>
 </a>
 
 </td>
@@ -371,76 +275,12 @@ Collaborative project focused on an automotive web experience.
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-## 🤖
-
-### Machine Learning
-
-Models  
-Prediction  
-Evaluation
-
-</td>
-
-<td align="center" width="25%">
-
-## 🧠
-
-### Artificial Intelligence
-
-AI Applications  
-RAG  
-NLP
-
-</td>
-
-<td align="center" width="25%">
-
-## 📊
-
-### Data Science
-
-EDA  
-Analytics  
-Visualization
-
-</td>
-
-<td align="center" width="25%">
-
-## ⚙️
-
-### MLOps
-
-Deployment  
-APIs  
-Production
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-| Focus | What I'm Exploring |
-|:---:|:---|
-| 🤖 **Machine Learning** | Model development & evaluation |
-| 🧠 **AI** | Practical intelligent applications |
-| 🔎 **RAG** | Knowledge retrieval systems |
-| ⚙️ **MLOps** | Deployment & production workflows |
-| 📊 **Data Science** | Analytics & visualization |
-| 🌐 **Development** | Full-stack applications |
+<img src="https://img.shields.io/badge/Machine%20Learning-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-764ba2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-5B8DEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Deployment-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-4A5568?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-805AD5?style=for-the-badge"/>
 
 </div>
 
@@ -450,21 +290,13 @@ Production
 
 <div align="center">
 
-<a href="https://github.com/littlestuart07">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=littlestuart07&theme=tokyonight" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="48%" alt="GitHub Statistics"/>
-
-</a>
-
-<a href="https://github.com/littlestuart07">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages"/>
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=littlestuart07&theme=tokyonight" width="48%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=littlestuart07&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=littlestuart07&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
@@ -474,7 +306,7 @@ Production
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -484,147 +316,21 @@ Production
 
 <div align="center">
 
-<picture>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake-dark.svg">
-
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg">
-
-<img
-  alt="GitHub contribution snake"
-  src="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg"
-  width="95%">
-
-</picture>
+<img src="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🌱 Learning Journey
+# 🎯 Current Focus
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-📚<br>
-<b>Computer Science</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-📊<br>
-<b>Data Analytics</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🧮<br>
-<b>Statistics</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🤖<br>
-<b>Machine Learning</b>
-</td>
-
-</tr>
-
-<tr>
-<td colspan="7" align="center">↓</td>
-</tr>
-
-<tr>
-
-<td align="center">
-🧠<br>
-<b>Artificial Intelligence</b>
-</td>
-
-<td>←</td>
-
-<td align="center">
-🔎<br>
-<b>RAG</b>
-</td>
-
-<td>←</td>
-
-<td align="center">
-🌐<br>
-<b>Full Stack</b>
-</td>
-
-<td>←</td>
-
-<td align="center">
-⚙️<br>
-<b>MLOps</b>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🏆 What I Like Building
-
-<div align="center">
-
-| 📊 Data | 🤖 AI / ML | 🌐 Software |
-|:---:|:---:|:---:|
-| Data Analytics | Machine Learning | Full-Stack Apps |
-| EDA | RAG Systems | APIs |
-| Visualization | Predictive Models | Web Applications |
-| Insights | Intelligent Systems | Data Products |
-
-</div>
-
----
-
-# 🤝 Open To
-
-<div align="center">
-
-🚀 **Internships** &nbsp; • &nbsp;
-🔬 **Research Collaborations** &nbsp; • &nbsp;
-💻 **Open Source**
-
-<br>
-
-🧠 **AI / ML Projects** &nbsp; • &nbsp;
-📊 **Data Science Opportunities**
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 Let's Build Something Meaningful
-
-### `Learn → Build → Experiment → Improve`
-
-<br>
-
-<a href="https://github.com/littlestuart07?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-00B8D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:1E3A5F,100:0F172A&height=120&section=footer" width="100%"/>
-
-</div>
+```text
+Data Science
+     ↓
+Machine Learning
+     ↓
+Model Development
+     ↓
+Deployment
+     ↓
+Real-World Applications
