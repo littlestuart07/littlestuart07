@@ -139,7 +139,7 @@ My projects explore areas such as:
 
 Machine-learning based heart disease prediction application.
 
-**What it includes**
+**Highlights**
 
 - 🧠 ML prediction model
 - 🌐 Flask web application
@@ -396,7 +396,7 @@ Collaborative project focused on an automotive web experience.
 
 ### Machine Learning
 
-Model Development  
+Models  
 Prediction  
 Evaluation
 
@@ -449,47 +449,52 @@ Production
 
 <div align="center">
 
-```text
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│              WHAT I'M WORKING TOWARDS                 │
-│                                                       │
-│     📊  Stronger Data Science Foundations              │
-│                                                       │
-│     🤖  Better Machine Learning Systems                │
-│                                                       │
-│     🧠  Practical AI & RAG Applications                │
-│                                                       │
-│     ⚙️   Model Deployment & MLOps                      │
-│                                                       │
-│     🌐  Scalable Full-Stack Applications               │
-│                                                       │
-└───────────────────────────────────────────────────────┘
-```
+| Focus | What I'm Exploring |
+|:---:|:---|
+| 🤖 **Machine Learning** | Model development & evaluation |
+| 🧠 **AI** | Practical intelligent applications |
+| 🔎 **RAG** | Knowledge retrieval systems |
+| ⚙️ **MLOps** | Deployment & production workflows |
+| 📊 **Data Science** | Analytics & visualization |
+| 🌐 **Development** | Full-stack applications |
 
 </div>
 
 ---
 
-# 📈 GitHub
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/littlestuart07?tab=repositories">
+<a href="https://github.com/littlestuart07">
 
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Statistics"/>
 
 </a>
-
-<br><br>
 
 <a href="https://github.com/littlestuart07">
-<img src="https://img.shields.io/github/followers/littlestuart07?style=for-the-badge&label=FOLLOWERS&color=00B8D9"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+
 </a>
 
-<a href="https://github.com/littlestuart07?tab=repositories">
-<img src="https://img.shields.io/github/stars/littlestuart07?style=for-the-badge&label=REPOSITORY%20STARS&color=F5C542"/>
-</a>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=littlestuart07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -499,7 +504,11 @@ Production
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
 
 </div>
 
@@ -509,31 +518,31 @@ Production
 
 <div align="center">
 
-### `Computer Science`
+<table>
+<tr>
+<td align="center">📚<br><b>Computer Science</b></td>
+<td>→</td>
+<td align="center">📊<br><b>Data Analytics</b></td>
+<td>→</td>
+<td align="center">🧮<br><b>Statistics</b></td>
+<td>→</td>
+<td align="center">🤖<br><b>Machine Learning</b></td>
+</tr>
 
-↓  
+<tr>
+<td colspan="7" align="center">↓</td>
+</tr>
 
-### `Data Analytics`
-
-↓  
-
-### `Statistics & EDA`
-
-↓  
-
-### `Machine Learning`
-
-↓  
-
-### `Artificial Intelligence`
-
-↓  
-
-### `Full-Stack Applications`
-
-↓  
-
-### `Deployment & MLOps`
+<tr>
+<td align="center">🧠<br><b>AI</b></td>
+<td>←</td>
+<td align="center">⚙️<br><b>MLOps</b></td>
+<td>←</td>
+<td align="center">🌐<br><b>Full Stack</b></td>
+<td>←</td>
+<td align="center">🚀<br><b>Deployment</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -545,9 +554,9 @@ Production
 
 | 📊 Data | 🤖 AI / ML | 🌐 Software |
 |:---:|:---:|:---:|
-| Analytics | Machine Learning | Full-Stack Apps |
-| Visualization | RAG | APIs |
-| EDA | Predictive Systems | Web Applications |
+| Data Analytics | Machine Learning | Full-Stack Apps |
+| EDA | RAG Systems | APIs |
+| Visualization | Predictive Models | Web Applications |
 | Insights | Intelligent Systems | Data Products |
 
 </div>
@@ -558,10 +567,13 @@ Production
 
 <div align="center">
 
-🚀 **Internships**  
-🔬 **Research Collaborations**  
-💻 **Open Source**  
-🧠 **AI / ML Projects**  
+🚀 **Internships** &nbsp; • &nbsp;
+🔬 **Research Collaborations** &nbsp; • &nbsp;
+💻 **Open Source**
+
+<br>
+
+🧠 **AI / ML Projects** &nbsp; • &nbsp;
 📊 **Data Science Opportunities**
 
 </div>
