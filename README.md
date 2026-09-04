@@ -42,7 +42,7 @@ I enjoy working across the complete journey:
 
 **Collect → Clean → Analyze → Model → Build → Deploy**
 
-My projects explore areas such as:
+My projects explore:
 
 - 📊 Data Analytics & Visualization
 - 🤖 Machine Learning
@@ -120,20 +120,12 @@ My projects explore areas such as:
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-### Selected projects from my development journey
-
-</div>
-
-<br>
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h2>🫀 HeartRiskCheck</h2>
+## 🫀 HeartRiskCheck
 
 ### Heart Disease Prediction
 
@@ -161,7 +153,7 @@ Machine-learning based heart disease prediction application.
 
 <td width="50%" valign="top">
 
-<h2>🏙️ Smart City Mobility</h2>
+## 🏙️ Smart City Mobility
 
 ### Mobility Intelligence Platform
 
@@ -194,7 +186,7 @@ Urban mobility analytics covering **Delhi & Bengaluru**.
 
 <td width="50%" valign="top">
 
-<h2>🛒 Online Retail Analytics</h2>
+## 🛒 Online Retail Analytics
 
 ### Retail Data Analysis
 
@@ -202,12 +194,12 @@ A data analytics project focused on exploring online retail data.
 
 **Focus**
 
-- 📊 Data analysis
-- 🔎 Exploratory analysis
-- 📈 Retail insights
-- 🧮 Data-driven interpretation
+📊 Data Analysis  
+🔎 Exploratory Analysis  
+📈 Retail Insights  
+🧮 Data Interpretation
 
-**Focus Area**
+**Area**
 
 `Data Analytics` `EDA`
 
@@ -221,7 +213,7 @@ A data analytics project focused on exploring online retail data.
 
 <td width="50%" valign="top">
 
-<h2>📊 FODS Project</h2>
+## 📊 FODS Project
 
 ### Healthcare Data Analytics
 
@@ -253,14 +245,6 @@ Healthcare-focused data science project involving exploratory analysis and clust
 ---
 
 # 🤝 Collaborative Projects
-
-<div align="center">
-
-### Projects built together with other developers
-
-</div>
-
-<br>
 
 <table>
 <tr>
@@ -468,23 +452,19 @@ Production
 
 <a href="https://github.com/littlestuart07">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=littlestuart07&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="48%" alt="GitHub Statistics"/>
 
 </a>
 
 <a href="https://github.com/littlestuart07">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlestuart07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages"/>
 
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=littlestuart07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=littlestuart07&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -494,7 +474,7 @@ Production
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlestuart07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -505,9 +485,20 @@ Production
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg" width="95%">
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake-dark.svg">
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg">
+
+<img
+  alt="GitHub contribution snake"
+  src="https://raw.githubusercontent.com/littlestuart07/littlestuart07/output/github-contribution-grid-snake.svg"
+  width="95%">
+
 </picture>
 
 </div>
@@ -520,13 +511,33 @@ Production
 
 <table>
 <tr>
-<td align="center">📚<br><b>Computer Science</b></td>
+
+<td align="center">
+📚<br>
+<b>Computer Science</b>
+</td>
+
 <td>→</td>
-<td align="center">📊<br><b>Data Analytics</b></td>
+
+<td align="center">
+📊<br>
+<b>Data Analytics</b>
+</td>
+
 <td>→</td>
-<td align="center">🧮<br><b>Statistics</b></td>
+
+<td align="center">
+🧮<br>
+<b>Statistics</b>
+</td>
+
 <td>→</td>
-<td align="center">🤖<br><b>Machine Learning</b></td>
+
+<td align="center">
+🤖<br>
+<b>Machine Learning</b>
+</td>
+
 </tr>
 
 <tr>
@@ -534,13 +545,33 @@ Production
 </tr>
 
 <tr>
-<td align="center">🧠<br><b>AI</b></td>
+
+<td align="center">
+🧠<br>
+<b>Artificial Intelligence</b>
+</td>
+
 <td>←</td>
-<td align="center">⚙️<br><b>MLOps</b></td>
+
+<td align="center">
+🔎<br>
+<b>RAG</b>
+</td>
+
 <td>←</td>
-<td align="center">🌐<br><b>Full Stack</b></td>
+
+<td align="center">
+🌐<br>
+<b>Full Stack</b>
+</td>
+
 <td>←</td>
-<td align="center">🚀<br><b>Deployment</b></td>
+
+<td align="center">
+⚙️<br>
+<b>MLOps</b>
+</td>
+
 </tr>
 </table>
 
