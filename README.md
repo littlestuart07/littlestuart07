@@ -1,8 +1,8 @@
 <div align="center">
 
-# Suyash Agrawaal
+<img src="https://raw.githubusercontent.com/littlestuart07/littlestuart07/main/banner.svg" width="100%" alt="Suyash Agrawaal — Data Science, Machine Learning, Full-Stack"/>
 
-### Data Science Student · Machine Learning & Full-Stack
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+with+Data+%7C+ML+%7C+Web;Exploring+AI+and+Intelligent+Systems;Turning+Ideas+into+Real+Projects;Always+Learning+Something+New" alt="Building with Data, ML and Web"/>
 
